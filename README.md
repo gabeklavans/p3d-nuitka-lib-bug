@@ -7,5 +7,7 @@ To run the game:
 
 To reproduce the nuitka compile error:
 ```sh
-python -m nuitka --macos-create-app-bundle main.py
+python -m nuitka --standalone main.py
 ```
+
+Tested on macOS 14.2.1
