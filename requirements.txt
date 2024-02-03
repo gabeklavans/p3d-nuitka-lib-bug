@@ -1,0 +1,4 @@
+Nuitka==2.0.1
+ordered-set==4.1.0
+Panda3D==1.10.14
+zstandard==0.22.0
